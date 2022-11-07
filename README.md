@@ -6,10 +6,10 @@
 ・ドキュメント（日本語）
 https://docs.mapbox.com/jp/
 
-・ドキュメント（英語）※ナビゲーション関連はこちらを参照
-https://docs.mapbox.com/
+・ドキュメント（英語）
+https://docs.mapbox.com/<br>
 
-
+※ナビゲーション関連はこちらを参照
 
 
 ■ドキュメント情報
@@ -32,8 +32,8 @@ Mapbox Directions API：
 https://docs.mapbox.com/help/tutorials/route-avoidance-with-turf-mapbox-directions/
 
 
-サポート問い合わせ先：
-https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000291231
+サポート問合せ先：
+https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000291231<br>
 ※質問OK,日本人エンジニアもいる
 
 
