@@ -1,7 +1,7 @@
 # Mapbox
 
 
-■フォーラム（サポートフォーム）
+<h2>■フォーラム（サポートフォーム）</h2>
 
 ・ドキュメント（日本語）
 https://docs.mapbox.com/jp/
@@ -12,7 +12,7 @@ https://docs.mapbox.com/<br>
 ※ナビゲーション関連はこちらを参照
 
 
-■ドキュメント情報
+<h2>■ドキュメント情報</h2>
 
 開発ドキュメント：
 https://support.mapbox.com/hc/en-us
@@ -38,5 +38,5 @@ https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000291231<br>
 
 
 
-■利用料金
+<h2>■利用料金</h2>
 https://www.mapbox.com/pricing
